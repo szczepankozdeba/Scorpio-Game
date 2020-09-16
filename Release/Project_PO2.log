@@ -1,0 +1,3 @@
+﻿  main.cpp
+main.obj : error LNK2001: nierozpoznany symbol zewnętrzny "public: static class sf::Color const sf::Color::Black" (?Black@Color@sf@@2V12@B)
+C:\Users\Szczepan Kozdęba\source\repos\Project_PO2\Release\Project_PO2.exe : fatal error LNK1120: liczba nierozpoznanych elementów zewnętrznych: 1
