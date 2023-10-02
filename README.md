@@ -2,8 +2,9 @@
 
 2D Game Written with SFML
 Game Screenshot
+<img src="https://github.com/szczepankozdeba/Scorpio-Game/assets/48669369/7e77e375-3721-498d-a0c9-9f06d79edf13" width="300">
 ![image](https://github.com/szczepankozdeba/Scorpio-Game/assets/48669369/7e77e375-3721-498d-a0c9-9f06d79edf13)
- ![image](https://github.com/szczepankozdeba/Scorpio-Game/assets/48669369/33144086-da3c-47a8-bef0-793f10597ed3)
+![image](https://github.com/szczepankozdeba/Scorpio-Game/assets/48669369/33144086-da3c-47a8-bef0-793f10597ed3)
 
 Repository Description:
  This repository contains the source code of a 2D game developed using the SFML graphics library. 
