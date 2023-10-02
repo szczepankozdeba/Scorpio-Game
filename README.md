@@ -3,7 +3,7 @@
 2D Game Written with SFML
 
 
- Game Screenshots:
+ Game Screenshot:
  
  <img src="https://github.com/szczepankozdeba/Scorpio-Game/assets/48669369/7e77e375-3721-498d-a0c9-9f06d79edf13" width="500">  
 
