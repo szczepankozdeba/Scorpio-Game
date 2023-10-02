@@ -4,7 +4,7 @@
 
 Game Screenshots:
 
-<img src="https://github.com/szczepankozdeba/Scorpio-Game/assets/48669369/7e77e375-3721-498d-a0c9-9f06d79edf13" width="400">   <img src ="https://github.com/szczepankozdeba/Scorpio-Game/assets/48669369/33144086-da3c-47a8-bef0-793f10597ed3" width="400">
+<img src="https://github.com/szczepankozdeba/Scorpio-Game/assets/48669369/7e77e375-3721-498d-a0c9-9f06d79edf13" width="400" length="500">   <img src ="https://github.com/szczepankozdeba/Scorpio-Game/assets/48669369/33144086-da3c-47a8-bef0-793f10597ed3" width="400"  length="500">
 
 
 Repository Description:
